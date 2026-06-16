@@ -1,7 +1,8 @@
-# LoQueToca
+# Lo Que Toca
 
-Asistente de seguimiento y apoyo de actividades para la vida independiente<br>
-**Trabajo Fin de Grado INGENIERÍA INFORMÁTICA - Universidad de Granada**
+Asistente de seguimiento y apoyo de actividades para la vida independiente
+
+**TRABAJO FIN DE GRADO - INGENIERÍA INFORMÁTICA - Universidad de Granada**
 
 
 ## Funcionalidades principales
@@ -18,5 +19,5 @@ Asistente de seguimiento y apoyo de actividades para la vida independiente<br>
 
 ## Cómo ejecutarlo
 
-Para ejecutarlo basta con disponer de Google Chrome.
+Para ejecutarlo basta con disponer de Google Chrome.<br>
 El proyecto puede ejecutarse directamente desde Visual Studio Code seleccionando Chrome como dispositivo.
