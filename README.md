@@ -1,17 +1,23 @@
-# loquetoca
+# LoQueToca
 
-A new Flutter project.
+Trabajo de Fin de Grado INGENIERÍA INFORMÁTICA - Universidad de Granada
+Asistente de seguimiento y apoyo de actividades para la vida independiente
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Funcionalidades principales
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+- Gestión de tareas individuales y grupales, incluyendo tareas repetidas
+- Seguimiento de actividad para los supervisores
+- Soporte para varios alumnos asociados a un mismo supervisor
+- Sistema de gamificación basado en el crecimiento de una planta según los puntos obtenidos
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tecnologías
+
+- Flutter (Dart)
+- Firebase (Firestore como base de datos)
+
+## Cómo ejecutarlo
+
+Para ejecutarlo basta con disponer de Google Chrome.
+El proyecto puede ejecutarse directamente desde Visual Studio Code seleccionando Chrome como dispositivo.
