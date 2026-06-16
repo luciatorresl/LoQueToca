@@ -1,6 +1,7 @@
 # LoQueToca
 
 Trabajo de Fin de Grado INGENIERÍA INFORMÁTICA - Universidad de Granada
+
 Asistente de seguimiento y apoyo de actividades para la vida independiente
 
 
