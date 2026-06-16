@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "463314394010",
+    "project_id": "loquetoca-e9688",
+    "storage_bucket": "loquetoca-e9688.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463314394010:android:d0fd93c7024e1c9d9d3823",
+        "android_client_info": {
+          "package_name": "com.example.loquetoca"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiOudALoGVaT1gYhiU5I5fL0v4u6YJ-nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
