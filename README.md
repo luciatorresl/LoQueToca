@@ -1,8 +1,8 @@
 # Lo Que Toca
 
-Asistente de seguimiento y apoyo de actividades para la vida independiente
-
 **TRABAJO FIN DE GRADO - INGENIERÍA INFORMÁTICA - Universidad de Granada**
+
+Asistente de seguimiento y apoyo de actividades para la vida independiente
 
 
 ## Funcionalidades principales
