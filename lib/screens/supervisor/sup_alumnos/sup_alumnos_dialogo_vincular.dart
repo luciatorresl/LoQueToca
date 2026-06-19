@@ -27,7 +27,7 @@ class _DialogoVincularAlumnoState extends State<DialogoVincularAlumno> {
       content: TextField(
         controller: _controller,
         enabled: !_cargando,
-        decoration: const InputDecoration(labelText: 'UID del alumno'),
+        decoration: const InputDecoration(labelText: 'ID del alumno'),
       ),
       actions: [
         TextButton(onPressed: _cargando ? null : () => Navigator.pop(context), child: const Text('Cancelar')),
