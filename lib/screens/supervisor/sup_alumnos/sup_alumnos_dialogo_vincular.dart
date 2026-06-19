@@ -47,7 +47,7 @@ class _DialogoVincularAlumnoState extends State<DialogoVincularAlumno> {
         context: context,
         builder: (_) => AlertDialog(
           title: const Text('Campo vacío'),
-          content: const Text('Introduce el UID del alumno'),
+          content: const Text('Introduce el ID del alumno'),
           actions: [
             ElevatedButton(
               onPressed: () => Navigator.pop(context),
