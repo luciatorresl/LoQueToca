@@ -1,6 +1,6 @@
 # Lo Que Toca
 
-**TRABAJO FIN DE GRADO - INGENIERÍA INFORMÁTICA - Universidad de Granada**
+**INGENIERÍA INFORMÁTICA - Universidad de Granada**
 
 Asistente de seguimiento y apoyo de actividades para la vida independiente.
 
@@ -16,6 +16,10 @@ Asistente de seguimiento y apoyo de actividades para la vida independiente.
 
 - Flutter (Dart)
 - Firebase (Firestore como base de datos)
+
+## Proyección
+
+Esta aplicación se ha desarrollado como Trabajo Fin de Grado. El objetivo a medio plazo es que pueda pasar de una entrega académica a un uso real por parte del colectivo para el que se ha diseñado (personas con discapacidad intelectual, TEA)
 
 ## Cómo ejecutarlo
 
