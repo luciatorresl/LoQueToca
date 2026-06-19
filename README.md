@@ -1,6 +1,6 @@
 # Lo Que Toca
 
-**INGENIERÍA INFORMÁTICA - Universidad de Granada**
+**Ingeniería Informática - Universidad de Granada**
 
 Asistente de seguimiento y apoyo de actividades para la vida independiente.
 
